@@ -3,4 +3,5 @@
 I'm a learning developer, wanting to specialize in cybersecurity and AI
 
 ## Fun projects
-<li><a href=https://github.com/EvenKeel770/Neural-Network>Neural Network</a></li>
+<li><a href=https://github.com/Hambone770/Neural-Network>Neural Network</a></li>
+<li><a>Socket Server</a></li>
