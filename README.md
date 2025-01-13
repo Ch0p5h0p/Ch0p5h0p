@@ -2,7 +2,7 @@
 
 I'm a learning developer, wanting to specialize in cybersecurity, cryptography, and AI
 
-Education goal:\n
+Education goal:</br>
 Doctor of Cryptography
 ## Fun projects
 <li><a href=https://github.com/Blooper7/Neural-Network>Neural Network</a></li>
