@@ -8,6 +8,6 @@ Education goals:
 - Doctorate in Cryptography
 
 ## Fun projects
-<li><a href=https://github.com/Blooper7/Neural-Network>Neural Network</a></li>
+<li><a href=https://github.com/Blooper7/Neural-Network-Framework>Neural Network Framework</a></li>
 <li><a href=https://github.com/Blooper7/Socket-Server>Socket Server</a></li>
 <li><a href=https://github.com/Blooper7/Python-E>Python-E</a></li>
