@@ -4,6 +4,10 @@ I'm a learning developer, wanting to specialize in cybersecurity, cryptography, 
 
 Currently a senior in high school
 
+## Languages I like:
+- Python
+- C
+
 ## Education goals:
 - Bachelor's in Computer Science (Cybersecurity Concentration)
 - Master's in cybersecurity, cryptography, or a related field
