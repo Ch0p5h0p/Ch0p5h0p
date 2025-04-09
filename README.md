@@ -4,7 +4,7 @@ I'm a learning developer, wanting to one day get a job as an embedded systems en
 
 Currently a senior in high school
 
-[My Blog[("https://blooper7.github.io")
+[My Blog]("https://blooper7.github.io")
 
 ## Languages I use:
 - Python for math, scripting, and concept-dumping
