@@ -1,6 +1,6 @@
 # Blooper7
 
-I'm a learning developer, wanting to one day get a job as an embedded systems engineer
+I'm a learning developer, wanting to one day get a job as an embedded systems engineer, cryptographer, or cybersecurity analyst.
 
 Currently a senior in high school
 
