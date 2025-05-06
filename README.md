@@ -8,7 +8,8 @@ Currently a senior in high school
 
 ## Languages I use:
 - Python for math, scripting, and concept-dumping
-- C for firmware and kernel stuff
+- C for OS-level projects
+- Assembly ¯\_(ツ)_/¯
 
 ## Education goals:
 - Bachelor's Degree in Computer Engineering
