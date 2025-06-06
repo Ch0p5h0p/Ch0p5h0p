@@ -1,4 +1,4 @@
-# Blooper7 / Sam P
+# Blooper7 / Sam P.
 
 I'm a learning developer, wanting to one day get a job as an embedded systems engineer, cryptographer, or cybersecurity analyst.
 
