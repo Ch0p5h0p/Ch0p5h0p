@@ -2,8 +2,6 @@
 
 I'm a learning developer, wanting to one day get a job as an embedded systems engineer, cryptographer, or cybersecurity analyst.
 
-Currently a senior in high school
-
 [My Homepage](https://blooper7.github.io)
 
 ## Languages I use:
