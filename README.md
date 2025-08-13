@@ -10,5 +10,4 @@ I'm a learning developer, wanting to one day get a job as an embedded systems en
 - Intel x86-64 Assembly ¯\\\_(ツ)\_/¯
 
 ## Education goals:
-- Bachelor's Degree in Computer Engineering
-- Master's Degree in Computer Engineering or a field related to embedded systems engineering
+- Bachelor's Degree in Computer Science
