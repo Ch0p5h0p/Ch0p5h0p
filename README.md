@@ -1,6 +1,6 @@
 # Blooper7 / Sam P.
 
-I'm a learning developer, wanting to one day get a job as an embedded systems engineer, cryptographer, or cybersecurity analyst.
+I'm a learning developer, wanting to one day get a job as an embedded systems engineer or cybersecurity analyst.
 
 [My Homepage](https://blooper7.github.io)
 
