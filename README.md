@@ -24,7 +24,7 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 
 ## Experience info
 ### Past school projects:
-**Highschool** (I don't have code files for these anymore, because they were on school computers)
+**High school** (I don't have code files for these anymore, because they were on school computers)
 - Python server for pubkey exchange via Diffie-Hellman
 - Diffie-Hellman implementation in Python for the above project
 - Tiny VM in Python with a minimal instruction set
