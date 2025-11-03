@@ -11,7 +11,7 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 - Intel x86-64 Assembly ¯\\\_(ツ)\_/¯
 
 ### Languages I know bits of:
-- C++ (this is on here because I'm not very practiced with specifically C++ concepts)
+- C++ (this is on here because I'm not very practiced with specifically C++ concepts, but have a minor understanding of the C++ improvements)
 - C#
 - Java
 - Bash
