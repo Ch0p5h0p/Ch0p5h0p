@@ -8,12 +8,12 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 ### Languages I use:
 - Python for math, scripting, and concept-dumping
 - C for OS-level projects
+- Java for professional apps
 - Intel x86-64 Assembly ¯\\\_(ツ)\_/¯
 
 ### Languages I know bits of:
 - C++ (this is on here because I'm not very practiced with specifically C++ concepts, but have a minor understanding of the C++ improvements)
 - C#
-- Java
 - Bash
 - Haskell (I got bored one afternoon)
 - JavaScript (NodeJS and web, not React)
