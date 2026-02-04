@@ -12,6 +12,7 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 - Intel x86-64 Assembly ¯\\\_(ツ)\_/¯
 
 ### Languages I know bits of:
+- Rust
 - C++ (this is on here because I'm not very practiced with specifically C++ concepts, but have a minor understanding of the C++ improvements)
 - C#
 - Bash
@@ -19,7 +20,6 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 - JavaScript (NodeJS and web, not React)
 
 ### Languages I want to learn someday
-- Rust
 - ARM assembly
 
 ## Experience info
