@@ -6,14 +6,14 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 
 ## Language info
 ### Languages I use:
-- Python for math, scripting, and concept-dumping
-- C for OS-level projects
-- Java for professional apps
-- Intel x86-64 Assembly ¯\\\_(ツ)\_/¯
+- Python
+- C
+- C++
+- Java
+- Intel x86-64 Assembly
 
 ### Languages I know bits of:
 - Rust
-- C++ (this is on here because I'm not very practiced with specifically C++ concepts, but have a minor understanding of the C++ improvements)
 - C#
 - Bash
 - Haskell (I got bored one afternoon)
