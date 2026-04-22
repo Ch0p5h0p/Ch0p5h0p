@@ -32,4 +32,6 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 - Tiny kernel
 
 ### Work-related projects:
-None :(
+**Origins Rebirth**
+- ChatAutoMod: a bukkit plugin to automate detection and potential punishment of bad words
+- Feedbackinator: a bukkit plugin to handle feedback and dispatch surveys
