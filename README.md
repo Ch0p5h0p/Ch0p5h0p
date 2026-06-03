@@ -1,4 +1,4 @@
-# Ch0p5h0p / Radar77
+# Ch0p / Kangaroo
 
 I'm a low-level developer, wanting to one day get a job as an embedded systems engineer or cybersecurity analyst.
 
