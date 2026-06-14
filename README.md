@@ -6,18 +6,22 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 
 ## Language info
 ### Languages I use:
-- Python
 - C
 - C++
 - Java
 - Intel x86-64 Assembly
 
+### Languages I practice:
+- Bash
+- Haskell
+- AWK
+- Python 3
+
 ### Languages I know bits of:
 - Rust
 - C#
-- Bash
-- Haskell (I got bored one afternoon)
 - JavaScript (NodeJS and web, not React)
+- J
 
 ### Languages I want to learn someday
 - ARM assembly
