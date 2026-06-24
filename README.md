@@ -7,6 +7,7 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 - C
 - C++
 - Java
+- OCaml
 - Intel x86-64 Assembly
 
 ### Languages I practice:
