@@ -8,16 +8,16 @@ I'm a low-level developer, wanting to one day get a job as an embedded systems e
 - C++
 - Java
 - OCaml
-- Intel x86-64 Assembly
+- Rust
 
 ### Languages I practice:
 - Bash
 - Haskell
 - AWK
 - Python 3
+- Intel x86-64 Assembley
 
 ### Languages I know bits of:
-- Rust
 - C#
 - JavaScript (NodeJS and web, not React)
 - J
