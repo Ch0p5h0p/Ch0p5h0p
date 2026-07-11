@@ -1,6 +1,6 @@
 # Ch0p / Kangaroo
 
-I'm a low-level developer, wanting to one day get a job as an embedded systems engineer or cybersecurity analyst.
+I'm a software developer, wanting to one day get a job as an embedded systems engineer or cybersecurity analyst.
 
 ## Language info
 ### Languages I use:
