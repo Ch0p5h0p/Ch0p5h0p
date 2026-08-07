@@ -1,8 +1,5 @@
-# Ch0p / Kangaroo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:b4befe&height=275&section=header&text=Ch0p5h0p&fontSize=70&animation=fadeIn&fontAlignY=35&fontFamily=Ubuntu%20Mono&desc=low-level%20|%20game%20dev&descAlignY=55">
 
-I'm a software developer, wanting to one day get a job as an embedded systems engineer or cybersecurity analyst.
-
----
 
 ## `LANGUAGES`
 
@@ -10,14 +7,10 @@ I'm a software developer, wanting to one day get a job as an embedded systems en
 
 ## `WANT TO LEARN`
 
-![Languages](https://skillicons.dev/icons?i=zig,fortran,php,css)
+![Want to Learn](https://skillicons.dev/icons?i=zig,fortran,php,css,unity)
 
 ## `TOOLS & ENVIRONMENT`
 
 ![Tools](https://skillicons.dev/icons?i=git,arch,neovim,idea)
 
-## Experience info
-### Work-related projects:
-**Origins Rebirth (volunteer dev)**
-- ChatAutoMod: a bukkit plugin to automate detection and potential punishment of bad words
-- Feedbackinator: a bukkit plugin to handle feedback and dispatch surveys
+<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&color=0:b4befe,100:1e1e2e&height=150&section=footer&desc="So%20long,%20and%20thanks%20for%20all%20the%20fish"&descAlignY=75&fontFamily=Ubuntu%20Mono'>
