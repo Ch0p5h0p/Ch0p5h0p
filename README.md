@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:b4befe&height=275&section=header&text=Kangaroo&fontSize=70&animation=fadeIn&fontAlignY=35&desc=low-level%20|%20game%20dev&descAlignY=55">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:b4befe&height=275&section=header&text=Ch0p5h0p&fontSize=70&animation=fadeIn&fontAlignY=35&desc=low-level%20|%20game%20dev&descAlignY=55">
 
 
 ## `LANGUAGES`
