@@ -11,6 +11,6 @@
 
 ## `TOOLS & ENVIRONMENT`
 
-![Tools](https://skillicons.dev/icons?i=git,arch,neovim,idea)
+![Tools](https://skillicons.dev/icons?i=git,nix,neovim,idea)
 
 <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&color=0:b4befe,100:1e1e2e&height=150&section=footer&desc="So%20long,%20and%20thanks%20for%20all%20the%20fish"&descAlignY=75'>
